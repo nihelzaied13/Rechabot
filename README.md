@@ -27,11 +27,12 @@ Rechabot est un assistant de recommandation intelligent, construit avec Streamli
    python -m venv rechabot
    rechabot\Scripts\activate 
    ```
-
+````
 3.**Installez les packages requis :**
     ```bash
       pip install -r requirements.txt
    ```
+````
 Le fichier requirements.txt contient :
 streamlit
 pandas
